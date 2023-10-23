@@ -13,6 +13,8 @@ Using a machine learning model, we use sonar data and our machine learning model
 
 
 Work Flow:
+
+
 1-Sonar Data
 
 2-Data Preprocessing
